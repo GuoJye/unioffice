@@ -1,0 +1,3 @@
+046927c909ebe61b4670e0ff1149eb668dd84e9250e43cf7bab53323fd6dda3a  license.key
+6c11bdde022c5d2dce8473bc538e06f1dabc550ac8f248bf6645f264dc39647b  unioffice-client-deployment.tar.gz
+13446132e0041b4c3b502e83a0cc439581f6f80bbbcdbd598f124b069fae541e  部署说明.txt
